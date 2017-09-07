@@ -1,0 +1,28 @@
+{
+  "name": "jordphillipps.io",
+  "version": "1.0.0",
+  "description": "Personal portfolio for Jordan Phillipps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordphillipps/jordphillipps.io.git"
+  },
+  "keywords": [
+    "SaSS",
+    "Git",
+    "Gulp",
+    "npm",
+    "HTML",
+    "JS",
+    "CSS"
+  ],
+  "author": "Jordan Phillipps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordphillipps/jordphillipps.io/issues"
+  },
+  "homepage": "https://github.com/jordphillipps/jordphillipps.io#readme"
+}

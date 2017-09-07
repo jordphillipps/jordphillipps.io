@@ -1,2 +1,2 @@
 # jordphillipps.io
-My Personal Protfolio 
+My Personal Porfolio 
