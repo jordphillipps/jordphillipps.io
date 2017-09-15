@@ -10257,8 +10257,6 @@ return jQuery;
 (function (global){
 global.jQuery = require('jquery');
 
-jQuery(document).ready(function(){
-	alert("hello");
-});
+
 }).call(this,typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
 },{"jquery":1}]},{},[2])
